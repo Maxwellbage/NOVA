@@ -1,2 +1,19 @@
 # NOVA
-Here’s a simple and clear description you can add for the repository:  Description: Personal portfolio site built to showcase my work, skills, and projects using HTML, CSS, and GitHub Pages.  If you want a shorter version: Description: My personal portfolio website hosted on GitHub Pages.
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Maxwell Bage | Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f5f5f5; }
+        h1 { color: #222; }
+        p { color: #555; }
+        a { color: #007bff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Hello, I’m Maxwell Bage</h1>
+    <p>Welcome to my portfolio. I build, learn, and grow through projects.</p>
+    <p>More content coming soon.</p>
+</body>
+</html>
